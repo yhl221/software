@@ -1,0 +1,93 @@
+#carousel-example-generic{
+ margin-top: 20px;
+ margin-left: 10%;
+    margin-right: 10%;
+    height: 240px;
+}
+
+.name {
+    margin-top: 5%;
+    margin-left: 10%;
+    margin-bottom: 10px;
+}
+
+.pic1 {
+    height:240px;
+    width: 270px;
+    float: left;
+}
+
+.pic2{
+    height:240px;
+    width: 270px;
+    float: none;
+    margin-left: 10%;
+}
+
+.pic3{
+    height:240px;
+    width: 270px;
+    float: right;
+}
+ img:hover{
+    -webkit-transform: scale(1.2 );
+    -webkit-transition: 1s;
+}
+
+.contentText{
+    position: absolute;
+    margin-left: 10%;
+    margin-top: 60%;
+    color: white;
+    font-size: 140%;
+}
+
+.pics{
+    width:170px;
+    height: 130px;
+    margin-top: 25px;
+}
+
+.details{
+    margin-top: 10px;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.introduction{
+    margin-top: 25px;
+}
+
+.title{
+    font-size: 170%;
+}
+
+.content{
+    font-size: 110%;
+    margin-top: 15px;
+}
+
+.options{
+    font-size: 130% ;
+}
+
+a:visited{
+   color: black;
+}
+
+a:link{
+    color:black;
+}
+
+a:active{
+    color: palevioletred ;
+}
+
+a:hover{
+   color: palevioletred ;
+}
+
+.popular{
+    float: right;
+    margin-top: 10px;
+}
