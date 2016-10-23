@@ -120,3 +120,29 @@ a:hover{
 .size{
     padding: 0 15px;
 }
+
+#size{
+    margin-left: 10%;
+    margin-right: 30px;
+    width: 1030px;
+    height: 150px;
+}
+
+.detailsContent{
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.img1{
+    margin-top: 25px;
+    margin-left: 170px;
+    margin-right: 150px;
+    width: 300px;
+    height: 250px;
+}
+
+.popular2{
+    position: absolute;
+    margin-left: 800px;
+    margin-top: 100px;
+}
