@@ -6,9 +6,15 @@
 }
 
 .name {
-    margin-top: 5%;
+    margin-top: 30px;
     margin-left: 10%;
-    margin-bottom: 10px;
+    margin-bottom: 15px;
+}
+
+
+.head{
+    margin-left: 5px !important;
+    font-size: 300%;
 }
 
 .pic1 {
@@ -60,11 +66,13 @@
 
 .title{
     font-size: 170%;
+    margin-left: 50px;
 }
 
 .content{
     font-size: 110%;
-    margin-top: 15px;
+    margin-top: 10px;
+    margin-left: 50px;
 }
 
 .options{
@@ -76,8 +84,9 @@ a:visited{
 }
 
 a:link{
-    color:black;
+    color: black
 }
+
 
 a:active{
     color: palevioletred ;
@@ -89,5 +98,25 @@ a:hover{
 
 .popular{
     float: right;
+    margin-top: 200px;
+    position: absolute;
+    margin-left: 70%;
+}
+
+.week{
+    height: 80px;
+    width: 100px;
     margin-top: 10px;
+}
+
+.weekInfo{
+    font-size: 120%;
+    margin-left: 120px;
+    margin-top: 40px;
+    position: absolute;
+    color:black;
+}
+
+.size{
+    padding: 0 15px;
 }
